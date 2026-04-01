@@ -1,0 +1,7 @@
+{
+  "/surface/page": "app/surface/page.js",
+  "/page": "app/page.js",
+  "/findings/[id]/page": "app/findings/[id]/page.js",
+  "/reports/page": "app/reports/page.js",
+  "/scan/[id]/page": "app/scan/[id]/page.js"
+}
