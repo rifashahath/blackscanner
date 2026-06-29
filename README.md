@@ -6,7 +6,7 @@ An advanced AI-first authorized web vulnerability scanner with a futuristic cybe
 
 ```
 blackscanner/
-├── frontend/          # Next.js + TypeScript + Tailwind CSS
+├── frontend/          # react.js + TypeScript + Tailwind CSS
 │   ├── src/
 │   │   ├── app/       # Next.js App Router pages
 │   │   ├── components/ # Reusable UI components
